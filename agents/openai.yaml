@@ -1,0 +1,7 @@
+interface:
+  display_name: "枯木逢春"
+  short_description: "把粗糙、不文雅的提示词还原成清晰、体面的文本输出"
+  default_prompt: "Use $raw-to-clear-deconstructor for polished, clear, and dignified text output."
+
+policy:
+  allow_implicit_invocation: true
